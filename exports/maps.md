@@ -10,6 +10,8 @@ All maps share the same Transverse Mercator model on WGS84: `proj=tmerc`, `lat_0
 | Caucasus | 33 | -99516.999998 | -4998115.000002 |
 | Falklands | -57 | 147640.000000 | 5815417.000000 |
 | GermanyCW | 21 | 35427.620001 | -6061633.128002 |
+| Iraq | 45 | 72290.000001 | -3680056.999998 |
+| Kola | 21 | -62701.999999 | -7543625.000001 |
 | MarianaIslands | 147 | 238418.000000 | -1491839.999999 |
 | MarianaIslandsWWII | 147 | 238418.000000 | -1491839.999999 |
 | Nevada | -117 | -193996.810000 | -4410028.064000 |
@@ -25,6 +27,8 @@ All maps share the same Transverse Mercator model on WGS84: `proj=tmerc`, `lat_0
 - **Caucasus**: `+proj=tmerc +lat_0=0 +lon_0=33 +k_0=0.9996 +x_0=-99516.99999766012 +y_0=-4998115.000001914 +towgs84=0,0,0,0,0,0,0 +units=m +vunits=m +ellps=WGS84 +no_defs +axis=neu`
 - **Falklands**: `+proj=tmerc +lat_0=0 +lon_0=-57 +k_0=0.9996 +x_0=147639.99999997593 +y_0=5815417.000000032 +towgs84=0,0,0,0,0,0,0 +units=m +vunits=m +ellps=WGS84 +no_defs +axis=neu`
 - **GermanyCW**: `+proj=tmerc +lat_0=0 +lon_0=21 +k_0=0.9996 +x_0=35427.62000060154 +y_0=-6061633.12800163 +towgs84=0,0,0,0,0,0,0 +units=m +vunits=m +ellps=WGS84 +no_defs +axis=neu`
+- **Iraq**: `+proj=tmerc +lat_0=0 +lon_0=45 +k_0=0.9996 +x_0=72290.0000013377 +y_0=-3680056.999997638 +towgs84=0,0,0,0,0,0,0 +units=m +vunits=m +ellps=WGS84 +no_defs +axis=neu`
+- **Kola**: `+proj=tmerc +lat_0=0 +lon_0=21 +k_0=0.9996 +x_0=-62701.99999924752 +y_0=-7543625.000001493 +towgs84=0,0,0,0,0,0,0 +units=m +vunits=m +ellps=WGS84 +no_defs +axis=neu`
 - **MarianaIslands**: `+proj=tmerc +lat_0=0 +lon_0=147 +k_0=0.9996 +x_0=238418.00000022806 +y_0=-1491839.9999989243 +towgs84=0,0,0,0,0,0,0 +units=m +vunits=m +ellps=WGS84 +no_defs +axis=neu`
 - **MarianaIslandsWWII**: `+proj=tmerc +lat_0=0 +lon_0=147 +k_0=0.9996 +x_0=238418.00000022806 +y_0=-1491839.9999989243 +towgs84=0,0,0,0,0,0,0 +units=m +vunits=m +ellps=WGS84 +no_defs +axis=neu`
 - **Nevada**: `+proj=tmerc +lat_0=0 +lon_0=-117 +k_0=0.9996 +x_0=-193996.80999964548 +y_0=-4410028.063999966 +towgs84=0,0,0,0,0,0,0 +units=m +vunits=m +ellps=WGS84 +no_defs +axis=neu`
