@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=maps.schema.json
+# DCS map projection parameters — managed by `dcs-coords calibrate`.
+# Only lon_0 (central meridian), x_0 (false easting) and y_0 (false northing)
+# vary per map; the rest of the tmerc model is fixed in code (k_0=0.9996, WGS84).
+# Keys are the codified env.mission.theatre names.
+Afghanistan:
+  lon_0: 63
+  x_0: -300150.00000261003
+  y_0: -3759657.000001035
+Caucasus:
+  lon_0: 33
+  x_0: -99516.99999766012
+  y_0: -4998115.000001914
+Falklands:
+  lon_0: -57
+  x_0: 147639.99999997593
+  y_0: 5815417.000000032
+GermanyCW:
+  lon_0: 21
+  x_0: 35427.62000060154
+  y_0: -6061633.12800163
+MarianaIslands:
+  lon_0: 147
+  x_0: 238418.00000022806
+  y_0: -1491839.9999989243
+MarianaIslandsWWII:
+  lon_0: 147
+  x_0: 238418.00000022806
+  y_0: -1491839.9999989243
+Nevada:
+  lon_0: -117
+  x_0: -193996.80999964548
+  y_0: -4410028.063999966
+Normandy:
+  lon_0: -3
+  x_0: -195525.99999845505
+  y_0: -5484812.999999176
+PersianGulf:
+  lon_0: 57
+  x_0: 75755.99999870236
+  y_0: -2894933.000000028
+SinaiMap:
+  lon_0: 33
+  x_0: 169221.99999983577
+  y_0: -3325312.9999987846
+Syria:
+  lon_0: 39
+  x_0: 282801.00000019063
+  y_0: -3879866.000000911
+TheChannel:
+  lon_0: 3
+  x_0: 99376.00000000288
+  y_0: -5636889.00000001
