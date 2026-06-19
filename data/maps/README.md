@@ -2,4 +2,4 @@
 
 This folder contains a minimal mission for each map.
 
-Each mission should have `tools\export_points.lua` embeded (contains also instructions to be used).
+Each mission should have `tools\export_points.lua` embedded (which also contains instructions on how to use it).
